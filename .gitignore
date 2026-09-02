@@ -1,0 +1,12 @@
+# Python
+.env
+__pycache__/
+*.pyc
+venv/
+
+# DB
+mvp.db
+
+# Next.js
+node_modules/
+.next/

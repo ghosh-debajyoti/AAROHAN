@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+transformers
+torch
+python-multipart
+requests
+Levenshtein
+py-tlsh
